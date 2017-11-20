@@ -9,3 +9,6 @@ main file
   >route
     >userroute
 
+postman collection link
+https://www.getpostman.com/collections/00da6a45133b45171113
+
